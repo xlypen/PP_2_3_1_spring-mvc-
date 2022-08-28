@@ -10,12 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b2fe67d-6125-4c7c-8609-d790ab33bfb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/424165fd-956c-4454-b000-3fe06bc54938.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/424165fd-956c-4454-b000-3fe06bc54938.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,14 +86,14 @@
     <configuration name="Tomcat 8.5.821" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.821" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="spring_mvc:war exploded">
+        <artifact name="spring-mvc:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="518fbe32-0f3a-4c3f-be5d-548dcb80a5cb" />
+        <option name="BASE_DIRECTORY_NAME" value="34df0959-bba9-4e2a-b7f5-461f124f8ac9" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -106,7 +101,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="53001" />
+        <option name="DEBUG_PORT" value="50114" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -171,10 +166,16 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="spring_mvc:war exploded" />
+          <artifact name="spring-mvc:war exploded" />
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.edit.html" />
+      <item itemvalue="JavaScript Debug.new.html" />
+      <item itemvalue="JavaScript Debug.users.html" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.821" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.users.html" />
@@ -196,6 +197,7 @@
       <workItem from="1661660756457" duration="224000" />
       <workItem from="1661660990019" duration="28000" />
       <workItem from="1661661028246" duration="1229000" />
+      <workItem from="1661679494699" duration="52000" />
     </task>
     <servers />
   </component>
